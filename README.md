@@ -23,12 +23,12 @@ libjansson-dev libpython-dev expat libexpat1-dev
 
 #step3 : writ >
 
-git clone https://github.com/mustafaflux/superflux-bot.git
+git clone https://github.com/TEAMRX/RX.git
 
 
 #step4 : Writ >
 
-cd superflux-bot
+cd RX
 
 
 
@@ -54,7 +54,7 @@ Then ask You Number To put him Bot
 
 ----------------------------
 
-For the inauguration #SourceSuperflux 
+For the inauguration #SourceRX
 
 
 
@@ -64,5 +64,5 @@ For the inauguration #SourceSuperflux
 
 sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get autoremove && sudo apt-get autoclean && sudo apt-get install 
 libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev 
-libpython-dev expat libexpat1-dev -y && cd $HOME && rm -rf superflux-bot && rm -rf .telegram-cli && git clone https://github.com/mustafaflux/superflux-bot.git && cd superflux-bot && ./launch.sh install && ./launch.sh
+libpython-dev expat libexpat1-dev -y && cd $HOME && rm -rf RX && rm -rf .telegram-cli && git clone https://github.com/TEAMRX/RX.git && cd RX && ./launch.sh install && ./launch.sh
 ~~~~~
